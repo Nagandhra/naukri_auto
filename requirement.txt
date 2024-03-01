@@ -1,0 +1,6 @@
+you have install these below things
+selinume-webdrive
+chrome-browser
+python
+virtualenv
+while runing the code by using cron job the chrome-browser is not working but manually it's running so give me any sugesstions to reslove the issue 
